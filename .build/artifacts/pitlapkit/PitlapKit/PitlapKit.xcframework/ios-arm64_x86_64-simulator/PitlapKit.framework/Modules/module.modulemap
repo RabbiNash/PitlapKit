@@ -1,0 +1,5 @@
+framework module "PitlapKit" {
+    umbrella header "PitlapKit.h"
+    export *
+    module * { export * }
+}
