@@ -12,7 +12,7 @@ let package = Package(
    targets: [
       .binaryTarget(
          name: "PitlapKit",
-         url: "https://github.com/RabbiNash/PitlapKMM/releases/download/0.2.5/PitlapKit.xcframework.zip",
-         checksum:"895b35e009b98dfd2b7133d8a2c82c37c7a5e381072c4d0934e927bab50f3607")
+         url: "https://github.com/RabbiNash/PitlapKMM/releases/download/0.2.6/PitlapKit.xcframework.zip",
+         checksum:"26a582b2c588edbc714eee8d0996a2c4d9c1fb3d73af8987938135adf8f28fff")
    ]
 )
